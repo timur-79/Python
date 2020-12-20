@@ -1,5 +1,6 @@
 print('Hello Word!')
-x=10
+x = 10
+
 while x > 0:
     print(x)
     x -= 1
