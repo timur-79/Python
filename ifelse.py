@@ -14,3 +14,6 @@ for num in (10, 2, -17, 2, -43, 11, 22.5):
         print('Нечетное ', num)
     else:
         print('Чо за нах?')
+y=78
+y=-y
+print(-y)
